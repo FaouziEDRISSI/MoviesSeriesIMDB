@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was IMDB Information with [Create React App](https://github.com/facebook/create-react-app) & Redux.
+
+## Demo Project
+
+You find here the online demo project.<br />
+Open [IMDB Information Movies&Series](https://FAOUZIEDRISSI.github.io/MoviesSeriesIMDB) :) 
 
 ## Available Scripts
 
