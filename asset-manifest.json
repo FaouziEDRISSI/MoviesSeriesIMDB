@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MoviesSeriesIMDB/static/css/main.d14e4011.chunk.css",
+    "main.js": "/MoviesSeriesIMDB/static/js/main.6baab9d5.chunk.js",
+    "main.js.map": "/MoviesSeriesIMDB/static/js/main.6baab9d5.chunk.js.map",
+    "runtime-main.js": "/MoviesSeriesIMDB/static/js/runtime-main.ea1645de.js",
+    "runtime-main.js.map": "/MoviesSeriesIMDB/static/js/runtime-main.ea1645de.js.map",
+    "static/js/2.5d5a4904.chunk.js": "/MoviesSeriesIMDB/static/js/2.5d5a4904.chunk.js",
+    "static/js/2.5d5a4904.chunk.js.map": "/MoviesSeriesIMDB/static/js/2.5d5a4904.chunk.js.map",
+    "index.html": "/MoviesSeriesIMDB/index.html",
+    "precache-manifest.91f58090f787bd62d2ce63a7e81ed775.js": "/MoviesSeriesIMDB/precache-manifest.91f58090f787bd62d2ce63a7e81ed775.js",
+    "service-worker.js": "/MoviesSeriesIMDB/service-worker.js",
+    "static/css/main.d14e4011.chunk.css.map": "/MoviesSeriesIMDB/static/css/main.d14e4011.chunk.css.map",
+    "static/js/2.5d5a4904.chunk.js.LICENSE": "/MoviesSeriesIMDB/static/js/2.5d5a4904.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea1645de.js",
+    "static/js/2.5d5a4904.chunk.js",
+    "static/css/main.d14e4011.chunk.css",
+    "static/js/main.6baab9d5.chunk.js"
+  ]
+}
